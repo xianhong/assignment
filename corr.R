@@ -1,3 +1,4 @@
+# notes
 source("complete.R")
 
 calculate_corr_per_monitor <- function (file){
